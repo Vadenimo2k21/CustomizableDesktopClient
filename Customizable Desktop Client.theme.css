@@ -16,9 +16,9 @@
 
     /* Client's Background Settings */
     
-	--background-image: none; /* Background Image, eg. url("link"). */
-	--background-color: none; /* Background Color (for svg backgrounds and such).*/;
-	--background-filter: none; /* Filter property applied to the background, eg. grayscale(100%). */
+    --background-image: none; /* Background Image, eg. url("link"). */
+    --background-color: none; /* Background Color (for svg backgrounds and such).*/;
+    --background-filter: none; /* Filter property applied to the background, eg. grayscale(100%). */
     --window-opacity: 1; /* Opacity for the entire program. */
 
     /* Font Settings */
