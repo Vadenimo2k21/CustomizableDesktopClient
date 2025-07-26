@@ -53,6 +53,7 @@
     --background-base-lowest: var(--background-primary);
 
     /* Active it only, if you want to have your user card, and more stuff in an transperent color. */
+
 /*  --background-base-low: var(--background-secondary); */
 
     /* Client's Chat Input Background: To activate the transparency, remove the slash and the star characters in the code lines. */
