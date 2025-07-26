@@ -14,6 +14,7 @@ Vadenimo is responsible for editing the CSS with its additions.
 	--background-image: none;
 	--background-color: none;
 	--background-filter: none;
+	--window-opacity: 1;
 
     /* Font Settings */
 	
@@ -45,7 +46,7 @@ Vadenimo is responsible for editing the CSS with its additions.
 /* Transparency */
 
 html {
-	filter: opacity(1);
+	filter: opacity(var(--window-opacity));
 }
 
 /* Full Background */
