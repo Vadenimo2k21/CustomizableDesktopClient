@@ -36,7 +36,7 @@ Vadenimo is responsible for editing the CSS with its additions.
     /* Active it only, if you want to have your user card, and more in an transperent color. */
     /* --background-base-low: var(--background-secondary); */
 
-    /* Client's Chat Input Background: To activate the transparency, remove the slash and the star characters */
+    /* Client's Chat Input Background: To activate the transparency, remove the slash and the star characters. */
     
     /* --chat-background: transparent !important;
     --chat-background-default: transparent !important; */
