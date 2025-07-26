@@ -1,0 +1,63 @@
+/**
+ * @name Customizable Desktop Client
+ * @description This Discord theme lets one easily change the client's background and font.
+ * @author Vadenimo, MrTipson
+ * @version 1.0
+ * @source https://github.com/Vadenimo2k21/CustomizableDesktopClient
+ **/
+
+@import url(https://raw.githubusercontent.com/Vadenimo2k21/CustomizableDesktopClient/refs/heads/main/Customizable%20Desktop%20Client.css);
+
+/* Customizable Variables */ 
+
+:root, :root .theme-darker, :root .theme-dark, :root .theme-light,
+.visual-refresh.theme-light, .visual-refresh .theme-light,
+.visual-refresh.theme-dark, .visual-refresh .theme-dark {
+
+    /* Client's Background Settings */
+    
+	--background-image: none; /* Background Image, eg. url("link"). */
+	--background-color: none; /* Background Color (for svg backgrounds and such).*/;
+	--background-filter: none; /* Filter property applied to the background, eg. grayscale(100%). */
+    --window-opacity: 1; /* Opacity for the entire program. */
+
+    /* Font Settings */
+	
+    --font-primary: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Default Fonts: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif  */
+
+    --font-display: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Default Fonts: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif  */
+
+    --font-headline: "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Default Fonts: "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif  */
+
+    --font-code: "gg mono", "Source Code Pro", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+    /* Default Fonts: "gg mono", "Source Code Pro", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace  */
+
+    --font-clan-body: Fraunces, "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Default Fonts:  Fraunces, "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif*/
+
+    --font-clan-signature: Corinthia, "gg sans", cursive, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Default Fonts:  Corinthia, "gg sans", cursive, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif*/
+
+    --font-display-marketing: "ABC Ginto Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Default Fonts:  "ABC Ginto Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif*/
+
+    --font-display-marketing-header: "ABC Ginto Nord Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Default Fonts:  "ABC Ginto Nord Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif*/
+
+    /* Client's Background Variables */
+
+    --background-base-lower: var(--background-secondary);
+    --background-base-lowest: var(--background-primary);
+
+    /* Active it only, if you want to have your user card, and more stuff in an transperent color. */
+/*  --background-base-low: var(--background-secondary); */
+
+    /* Client's Chat Input Background: To activate the transparency, remove the slash and the star characters in the code lines. */
+    
+/*  --chat-background: transparent !important;
+    --chat-background-default: transparent !important; */
+
+}
