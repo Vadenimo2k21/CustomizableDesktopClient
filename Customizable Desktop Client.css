@@ -42,6 +42,32 @@ Vadenimo is responsible for editing the CSS with its additions.
 /*  --chat-background: transparent !important;
     --chat-background-default: transparent !important; */
 
+    /* Discord Nitro Themes */
+    --bg-animated-gradient-background-indigo-1: var(--background-primary);
+    --bg-gradient-aurora-1: var(--background-primary);
+    --bg-gradient-blurple-twilight-1: var(--background-primary);
+    --bg-gradient-chroma-glow-1: var(--background-primary);
+    --bg-gradient-citrus-sherbert-1: var(--background-primary);
+    --bg-gradient-cotton-candy-1: var(--background-primary);
+    --bg-gradient-crimson-moon-1: var(--background-primary);
+    --bg-gradient-desert-khaki-1: var(--background-primary);
+    --bg-gradient-dusk-1: var(--background-primary);
+    --bg-gradient-easter-egg-1-hsl: var(--background-primary);
+    --bg-gradient-forest-1: var(--background-primary);
+    --bg-gradient-hanami-1: var(--background-primary);
+    --bg-gradient-lofi-vibes-1: var(--background-primary);
+    --bg-gradient-mars-1: var(--background-primary);
+    --bg-gradient-midnight-blurple-1: var(--background-primary);
+    --bg-gradient-mint-apple-1: var(--background-primary);
+    --bg-gradient-neon-nights-1: var(--background-primary);
+    --bg-gradient-retro-raincloud-1: var(--background-primary);
+    --bg-gradient-retro-storm-1: var(--background-primary);
+    --bg-gradient-sepia-1: var(--background-primary);
+    --bg-gradient-strawberry-lemonade-1: var(--background-primary);
+    --bg-gradient-sunrise-1: var(--background-primary);
+    --bg-gradient-sunset-1: var(--background-primary);
+    --bg-gradient-under-the-sea-1-hsl: var(--background-primary);
+
 }
 
 
