@@ -1,1 +1,1 @@
-# Customizable Desktop Client - A Discord Theme
+# Customizable Desktop Client - Custom Discord Theme
